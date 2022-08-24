@@ -8,7 +8,7 @@ prefer_small_ascii = true
 [palette]
 type="Dark"
 visible=true
-glyph=" ⚫"
+glyph=" ⬤ "
 
 [box]
 title=" mezora "
