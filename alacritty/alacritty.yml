@@ -1,0 +1,73 @@
+# mezora -/ alacritty config
+
+items:
+  - colors:
+      name: mezoradark
+      author: mezora
+      primary:
+        background: "#111111"
+        foreground: "#a2a2a2"
+      cursor:
+        text: "#090300"
+        cursor: "#a5a2a2"
+      normal:
+        black: "#000000"
+        red: "#db2d20"
+        green: "#01a252"
+        yellow: "#fded02"
+        blue: "#01a0e4"
+        magenta: "#a16a94"
+        cyan: "#b5e4f4"
+        white: "#a5a2a2"
+      bright:
+        black: "#5c5855"
+        red: "#db2d20"
+        green: "#01a252"
+        yellow: "#fded02"
+        blue: "#01a0e4"
+        magenta: "#a16a94"
+        cyan: "#b5e4f4"
+        white: "#f7f7f7"
+  - theme: mezoradark.dark
+
+font:
+  size: 10
+  normal:
+    family: 'Caskaydia Cove Nerd Font'
+    style: 'medium'
+  bold:
+    family: 'Caskaydia Cove Nerd Font'
+    style: 'extra bold'
+colors:
+  # Default colors
+  primary:
+    background: '#111111'
+    foreground: '#FCFCFC'
+
+window:
+  padding:
+    x: 10
+    y: 10
+
+  # Normal colors
+  normal:
+    black: '#000000'
+    red: '#FF6188'
+    green: '#A9DC76'
+    yellow: '#FFD866'
+    blue: '#FC9867'
+    magenta: '#AB9DF2'
+    cyan: '#78DCE8'
+    white: '#FCFCFA'
+
+  # Bright colors
+  bright:
+    black: '#727072'
+    red: '#FF6188'
+    green: '#A9DC76'
+    yellow: '#FFD866'
+    blue: '#FC9867'
+    magenta: '#AB9DF2'
+    cyan: '#78DCE8'
+    white: '#FCFCFA'
+theme: mezoradark 

@@ -1,0 +1,5 @@
+# machina setup config by mezora
+
+# handle long desc
+long_kernel = false 
+long_shell = false
